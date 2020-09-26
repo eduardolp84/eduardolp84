@@ -1,10 +1,18 @@
 ### Hi there 👋
 
 
+# 🔭 I’m currently working on:
 
-- 🌱 I’m currently learning a UX/UI Product Design Bootcamp in [The Bridge](https://thebridge.tech/) the objetive of this is to improve my skills of Product Design.
+- Founder and Designer of [Ed'Art Studio](http:www.edartstudio.es), a company dedicated to Industrial Design and engineering developments.
 
+- Professor of Industrial Design certified by Dassault Systemes using CATIA V5 in [CEPPE](http:www.ceppe.es).
 
+# 🌱 I’m currently learning:
+
+ - A UX/UI Product Design Bootcamp in [The Bridge](https://thebridge.tech/). The objective of this training is to increase my design skills for both digital and physical products.
+
+# 📫 How to reach me: ...
+- You can find me in [Ed'Art Studio](http:www.edartstudio.es).
 <!--
 **eduardolp84/eduardolp84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
