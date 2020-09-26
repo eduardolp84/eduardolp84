@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+
+- 🌱 I’m currently learning a UX/UI Product Design Bootcamp in [The Bridge](https://thebridge.tech/) the objetive of this is to improve my skills of Product Design.
+
+
 <!--
 **eduardolp84/eduardolp84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
